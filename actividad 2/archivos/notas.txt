@@ -1,0 +1,6 @@
+Sistema Operativo: win32
+Arquitectura del Sistema: x64
+Sistema Operativo: win32
+Arquitectura del Sistema: x64
+Nombre del Dispositivo: ACER-PREDATOR
+Este es un mensaje adicional para el archivo.

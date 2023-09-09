@@ -1,0 +1,16 @@
+En un archivo, trabajando con ESM modules, exportar una función que reciba un numero y retorne su tabla de multiplicar hasta el número 12. Importarlo en un archivo con common js modules.
+
+
+
+En un archivo, trabajando con Common Js modules, exportar una función que reciba un número y retorne si el mismo es par o impar. Importarlo en un archivo con ESM modules.
+
+
+
+Crear una carpeta “archivos” con un archivo notas.txt con algún mensaje. Con módulos de Node js:
+
+
+Crear un path a “archivos/notas.txt”
+Leer el archivos con módulos de Node js (utilizando el path).
+Crear un path a “archivos/info.txt”
+Crear el archivo info.txt, utilizando el path del punto anterior y enviando como mensaje el sistema operativo del dispositivo y la arquitectura de sistema.
+Agregar al archivo anterior, en otra línea, su nombre y algún mensaje.

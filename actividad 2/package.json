@@ -1,0 +1,11 @@
+{
+  "name": "actividad-2",
+  "version": "1.0.0",
+  "description": "Actividad 2",
+  "main": "rutas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliana",
+  "license": "ISC"
+}

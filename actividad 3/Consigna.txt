@@ -1,0 +1,25 @@
+Parte 1
+
+✔ Crear un archivo llamado server.js
+✔ Importar express en una variable inmutable llamada express
+✔ Crear un servidor web que escuche el puerto 2023
+✔ El servidor debe disponer de los siguientes recursos:
+    ✔ "/" --> Debe mostrar su nombre y apellido
+    ✔ "/materia" --> Debe mostrar la información de la materia
+    ✔ "/profesor" --> Debe mostrar la información del profesor
+    ✔ cualquier otra url --> Debe mostrar un mensaje de pagina no encontrada.
+
+
+Parte 2
+
+✔ Armar un array con su top5 de tecnologias
+✔ En "/stack" debe recibir POR PARAMETRO una tecnologia:
+    ✔ si esta en su array, se debe enviar respuesta de "donde te dejo el CV?"
+    ✔ si no se encuentra, enviar respuesta de "a leer la documentacion entonces.."
+
+Parte 3
+
+✔ Agregar una URL llamada "/productos" que muestre un listado de 10 productos (id, nombre, precio)
+✔ Para la misma url, debo tener la posibilidad de recibir un id por parametro y responder solo la informacion del producto solicitado
+✔ También debe estar la posibilidad de recibir en la misma url los query "minimo" y "maximo" con un valor numérico. 
+    Utilizando esos query, retornar los productos que entren en ese rango de precios (se podria recibir solo una de las dos query o ambas).

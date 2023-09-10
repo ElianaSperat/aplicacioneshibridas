@@ -1,0 +1,15 @@
+{
+  "name": "actividad-3",
+  "version": "1.0.0",
+  "description": "actividad 3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  },
+  "author": "Eliana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
